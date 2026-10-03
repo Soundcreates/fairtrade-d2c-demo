@@ -11,3 +11,4 @@
 - [x] Implement finance, reports, customers, audit, and settings views
 - [x] Add demo role switcher, responsive states, and interaction polish
 - [x] Write README and check routes/build for the finished demo — production build passes; storefront checkout to admin order flow verified
+- [ ] Deploy to Vercel and share the live URL — in progress; waiting for the Vercel connection
